@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+					<div id="personDescription">
+						<ul id="descriptUl">
+							<li value="1">
+								I really enjoy the work of web development very much.
+							</li>
+							<li value="2">
+								I have a lot of hobbies.such as:basketball,swimming.
+							</li>
+							<li value="3">
+								I think of improving my technology everyday.
+							</li>
+						</ul>
+					</div>
+		<script type="text/javascript" src="jquery/jquery-1.12.1.min.js" ></script>
+    <script type="text/javascript" src="loopLi.js" ></script>
+	</body>
+</html>
