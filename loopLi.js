@@ -4,7 +4,7 @@ function loopLi() {
 				setTimeout(function() {
 					nowLi.css("display", "none");
 					nextLi.css("display", "block");					
-					setTimeout(changeLi(),4000);
+					setTimeout(loopLi(),4000);
 				},3000)
 			};
 loopLi();
